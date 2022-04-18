@@ -1,5 +1,5 @@
 
-This repository contains example scripts on how to split datasets, build and train models, and perform hyperparameter optimization. Used as references for students in The Data Mine ATOM team to refer to. 
+This repository contains documentation for the ATOM team, which is part of The Data Mine - Corporate Partners at Purdue University. Contains example scripts on how to split datasets, build and train models, and perform hyperparameter optimization. Created with the help of the ATOM tutorials, which can be located here: https://github.com/ATOMScience-org/AMPL/tree/master/atomsci/ddm/examples/tutorials
 
 *oprk1_model_example_split.ipynb*
 
